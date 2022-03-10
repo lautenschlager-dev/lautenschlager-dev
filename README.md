@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Andreas Lautenschlager, a full-time full-stack developer 👨‍💻 </div>  
+### <div align="center">I'm Andreas Lautenschlager, a full-time full-stack developer 👨‍💻 Visit my <a href="https://www.lautenschlager.de/>website</a> to find all informations.</div>  
   
 
 <br/>  
