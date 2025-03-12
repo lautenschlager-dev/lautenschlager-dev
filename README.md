@@ -6,7 +6,8 @@
 ### <div align="center">I'm Andreas Lautenschlager, a full-time full-stack developer 💻 <br/>Visit my www.lautenschlager.de to find all informations.</div>  
 
 **Key Projects:**
-- **Entspannungshelden App**: I am heavily involved in the development of this app and its surrounding architecture (website, CMS, etc.), which focuses on stress management, relaxation techniques, and mental well-being. The app provides a range of features, including guided meditations, progressive muscle relaxation, and sleep improvement techniques, all designed by experts in psychology and wellness.
+- **Entspannungshelden App**: I am heavily involved in the development of this app and its surrounding architecture (website, CMS, etc.), which focuses on stress management, relaxation techniques, and mental well-being. The app provides a range of features, including guided meditations, progressive muscle relaxation, and sleep improvement techniques, all designed by experts in psychology and wellness. You can learn more about our approach and offerings on our [website](https://www.entspannungshelden.de).
+
 
 <br/>  
 
